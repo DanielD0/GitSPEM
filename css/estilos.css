@@ -16,7 +16,22 @@
     background-position: center;
     background-size: cover;
 }
-.carousel-item{
-    vertical-align: middle;
-    text-align: center; 
+.justicia1{
+    background: #3280DE; 
+}
+.justicia2{
+    background: url('../img/justicia.png');
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
+}
+.integracion{
+    background: url('../img/integracion.png');
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
+}
+.footer{
+    background: #0F417F;
+    color: aliceblue;
 }
