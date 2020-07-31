@@ -1,0 +1,18 @@
+.fondohome{
+        background: url('../img/home.png');
+        height: 100vh;
+        background-position: center;
+        background-size: cover;
+        }
+.fondoespecialistas{
+    background: url('../img/Especilistas.png');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.fondoretos{
+    background: url('../img/Retos.png');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
